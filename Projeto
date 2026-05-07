@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agrinho: Forte e Sustentável</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Agrinho: Forte e Sustentável</h1>
+        <p>Inovação no campo para um futuro melhor.</p>
+    </header>
+
+    <main>
+        <section id="sobre">
+            <h2>O Projeto</h2>
+            <p>O Agrinho promove a conexão entre a educação, o campo e a preservação do meio ambiente.</p>
+        </section>
+
+        <section id="pilares">
+            <h2>Nossos Pilares</h2>
+            <ul>
+                <li>🌿 <strong>Sustentabilidade:</strong> Uso consciente da água e solo.</li>
+                <li>🚜 <strong>Tecnologia:</strong> Monitoramento inteligente de safras.</li>
+                <li>📚 <strong>Educação:</strong> Formando cidadãos do futuro.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Desenvolvido para o Projeto Agrinho 2026</p>
+    </footer>
+</body>
+</html>
